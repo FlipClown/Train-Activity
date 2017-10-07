@@ -1,0 +1,36 @@
+p{
+	font-size: 18px;
+	color: white;
+	margin-left: 10px;
+}
+
+.jumbotron	{
+	text-align: center;
+}
+
+#tableHeader	{
+	margin-top: 20px;
+}
+
+
+
+
+#tableBorder	{
+	border-left: 3px solid purple;
+	border-right: 3px solid purple;
+	border-bottom: 3px solid purple;
+	border-top: 3px solid purple;
+}
+
+.time	{
+	border-radius: 2px;
+	font-size: 25px;
+	width: 100px;
+	background-color: rgb(175,0,255);
+	text-align: center;
+}
+
+.form-group {
+	text-align: center;
+
+}
